@@ -1,2 +1,2 @@
 # workshop-frontend
-example
+example 2
